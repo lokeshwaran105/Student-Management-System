@@ -1,0 +1,21 @@
+.col-2{
+  background-color: #0000cc;
+}
+
+.box{
+  width: 210px;
+  height: 120px;
+  border-radius: 10px;
+}
+
+.c1{
+  background-color: #f54336;
+}
+
+.c2{
+  background-color: #9b27b0;
+}
+
+.c3{
+  background-color: #4cb04f;
+}
